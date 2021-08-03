@@ -67,6 +67,13 @@
             "link_label": "Pop-up link text",
             "page": "test"
           }
+        },
+        "7cc91a3a-671f-478a-969e-d1251f8cf22b": {
+          "type": "text",
+          "settings": {
+            "text": "Text block{{ product.metafields.my_fields.book_schedule | metafield_text }}",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -80,7 +87,8 @@
         "description",
         "share",
         "370517e5-5cfd-4f97-ae36-5d1f5a7d6aa8",
-        "62f647f8-58da-4ae0-9d78-d6d0a9b24333"
+        "62f647f8-58da-4ae0-9d78-d6d0a9b24333",
+        "7cc91a3a-671f-478a-969e-d1251f8cf22b"
       ],
       "settings": {
         "enable_sticky_info": true,
