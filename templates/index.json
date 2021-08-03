@@ -6,15 +6,18 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand"
+            "heading": "Cầu lông ô tô Văn Hiền"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Chi tiết",
             "button_link_1": "shopify:\/\/collections\/all",
-            "button_label_2": ""
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -23,13 +26,11 @@
         "button"
       ],
       "settings": {
-        "desktop_text_box_position": "flex-end"
-      }
-    },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products"
+        "image": "shopify:\/\/shop_images\/hero_2.jpg",
+        "desktop_text_box_position": "flex-end",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
       }
     },
     "image_text": {
@@ -38,16 +39,20 @@
         "heading": {
           "type": "heading",
           "settings": {
+            "heading": "Giới thiệu về cầu lông ô tô Văn Hiền"
           }
         },
         "text": {
           "type": "text",
           "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
         "button": {
           "type": "button",
           "settings": {
+            "button_label": "Button label",
+            "button_link": ""
           }
         }
       },
@@ -57,12 +62,74 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/banghieu_2-2.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "16279683919d028ad4": {
+      "type": "multicolumn",
+      "blocks": {
+        "16279683919d028ad4-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-cau-long.png",
+            "title": "Đặt lich đánh cầu lông",
+            "text": "<p>Liên hệ 0913761969 - 0813761969 - 0988317172<\/p>"
+          }
+        },
+        "16279683919d028ad4-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banghieu_2-2.jpg",
+            "title": "Tổ chức thi đấu cầu lông",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16279683919d028ad4-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hero_2.jpg",
+            "title": "Tổ chức các giải đấu cầu lông cho công ty, xí nghiệp",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16279683919d028ad4-0",
+        "16279683919d028ad4-1",
+        "16279683919d028ad4-2"
+      ],
+      "settings": {
+        "title": "Dịch vụ",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1627968934a4d665b5": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Blog posts",
+        "blog": "news",
+        "post_limit": 3,
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "soft_background": false,
+        "show_view_all": true
       }
     }
   },
   "order": [
     "image_banner",
-    "featured_products",
-    "image_text"
+    "image_text",
+    "16279683919d028ad4",
+    "1627968934a4d665b5"
   ]
 }

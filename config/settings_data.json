@@ -1,5 +1,6 @@
 {
   "current": {
+    "colors_accent_1": "#e22120",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -7,7 +8,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
+              "text": "Đặt lich đánh cầu lông Liên hệ 0913761969 - 0813761969 - 0988317172",
               "color_scheme": "accent-1",
               "link": ""
             }
