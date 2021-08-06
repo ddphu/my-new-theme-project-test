@@ -94,12 +94,20 @@
             "title": "Tổ chức các giải đấu cầu lông cho công ty, xí nghiệp",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
+        },
+        "c463caae-353c-4d34-98d1-3d8a711e909e": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
         }
       },
       "block_order": [
         "16279683919d028ad4-0",
         "16279683919d028ad4-1",
-        "16279683919d028ad4-2"
+        "16279683919d028ad4-2",
+        "c463caae-353c-4d34-98d1-3d8a711e909e"
       ],
       "settings": {
         "title": "Dịch vụ",
@@ -124,12 +132,19 @@
         "soft_background": false,
         "show_view_all": true
       }
+    },
+    "1628240789585d0bad": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "image_banner",
     "image_text",
     "16279683919d028ad4",
-    "1627968934a4d665b5"
+    "1627968934a4d665b5",
+    "1628240789585d0bad"
   ]
 }
