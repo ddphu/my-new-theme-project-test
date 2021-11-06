@@ -4,9 +4,21 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "1636196762de07e43b": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/247125957_117618974031489_2254593117945287969_n.jpg",
+        "image_2": "shopify:\/\/shop_images\/244986736_106133825180004_6092686517127530613_n.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1636196762de07e43b"
   ]
 }
