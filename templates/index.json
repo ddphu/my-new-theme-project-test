@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Sân Cầu lông ô tô Văn Hiền"
+            "heading": "Sân Cầu lông Văn Hiền"
           }
         },
         "button": {
@@ -45,21 +45,13 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><em>CÂU LẠC BỘ THỂ THAO SÂN CẦU LÔNG Ô TÔ VĂN HIỀN TỰ HÀO LÀ KHU PHỨC HỢP THỂ THAO GIÀU CÓ NHẤT PHÍA TÂY THÀNH PHỐ. GIÀU SỰ HIẾU KHÁCH, GIÀU SỰ CHÂN THÀNH, GIÀU SỰ TẬN TỤY VỚI MỘT PHONG CÁCH PHỤC VỤ CHUYÊN NGHIỆP VÀ GIÀU TÌNH YÊU THIÊN NHIÊN. DỊCH VỤ KHÔNG TỒN TẠI ĐƠN THUẦN TẠI ĐÂY, CHÚNG TÔI CÓ NHỮNG CÂU CHUYỆN, SỰ KẾT NỐI VÀ NHỮNG ĐIỀU DIỆU KỲ ĐANG CHỜ BẠN KHÁM PHÁ.<\/em><\/p>"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "text": "<p>Nằm tọa lạc trên diện tích rất rộng  tại địa chỉ: 264\/87 nguyễn thị minh khai, khu 3, tổ 1, Phường Phú Hòa, TP. Thủ Dầu Một , Bình Dương.Sân được xây dựng đạt tiêu chuẩn cao cấp, quốc tế.<\/p><p>Sân cầu lông Văn Hiền hiện tại đã hoàn thành được 3 sân, còn 6 sân đang trong dự án thi công. Trong tháng 11 này sẽ hoàn thành sân cho tất cả các AE đam mê cầu lông. Cảm ơn tất cả mọi người đã tham gia trong thời gian qua.* ĐẶC BIỆT: Bên mình có nhận đăng kí theo tháng sẽ được giảm 20% ạQuý khách có thắc mắc, muốn đặt sân vui lòng liên hệ SĐT: 0913.761969, 0988.337172, 0813.761969, 0889.077679 * XIN CHÂN THÀNH CẢM ƠN<\/p>"
           }
         }
       },
       "block_order": [
         "heading",
-        "text",
-        "button"
+        "text"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/247738338_117618864031500_8392309920954241216_n.jpg",
@@ -68,15 +60,21 @@
         "layout": "image_first"
       }
     },
+    "1636196178ba00f1f4": {
+      "type": "page",
+      "settings": {
+        "page": "vị-tri-san-cầu-long-van-hiền"
+      }
+    },
     "16279683919d028ad4": {
       "type": "multicolumn",
       "blocks": {
         "16279683919d028ad4-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo-cau-long.png",
-            "title": "Đặt lich đánh cầu lông",
-            "text": "<p>Liên hệ 0913761969 - 0813761969 - 0988317172<\/p>"
+            "image": "shopify:\/\/shop_images\/244986736_106133825180004_6092686517127530613_n.jpg",
+            "title": "Cho thuê sân cầu lông",
+            "text": "<p>Sân cầu lông Văn Hiền được xây dựng hiện đại, tiêu chuẩn thi đấu quốc tế<\/p><p>- Giá giờ cao điểm: 50k\/1h, đặt chết sân 45k\/1h<\/p><p>- Giá giờ thấp điểm: 45k\/1h, đặt chết sân 40k\/1h<\/p><p>- Khuyến mãi khăn lạnh.<\/p><p>- Chỗ để cho xe 10 xe ô tô từ 4 chỗ đến 7 chỗ<\/p><p>- Có bụt phát thưởng hạng nhất, nhì, ba thích hợp cho các hoạt động thi đấu giải nội bộ và mở rộng.<\/p><p>- Thường xuyên tổ chức các giải thi đấu nhỏ, vừa và lớn.<\/p>"
           }
         },
         "16279683919d028ad4-1": {
@@ -143,6 +141,7 @@
   "order": [
     "image_banner",
     "image_text",
+    "1636196178ba00f1f4",
     "16279683919d028ad4",
     "1627968934a4d665b5",
     "1628240789585d0bad"
