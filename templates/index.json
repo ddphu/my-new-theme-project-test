@@ -74,7 +74,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/244986736_106133825180004_6092686517127530613_n.jpg",
             "title": "Cho thuê sân cầu lông",
-            "text": ""
+            "text": "<p>Được xây dựng hiện đại, tiêu chuẩn thi đấu quốc tế.<\/p><p><a href=\"\/pages\/cho-thue-san-cau-long\" title=\"Cho thuê sân cầu lông\"><strong>Chi tiết<\/strong><\/a><br\/><br\/><\/p>"
           }
         },
         "16279683919d028ad4-1": {
@@ -82,7 +82,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/fbf28bc51350d77dc891f5a93b432808.jpg",
             "title": "Huấn luyện kỹ năng",
-            "text": ""
+            "text": "<p>Chương trình cơ bản, nâng cao,...<\/p><p><a href=\"\/pages\/huan-luyen-ky-nang\" title=\"Huấn luyện kỹ năng\"><strong>Chi tiết<\/strong><\/a><\/p>"
           }
         },
         "16279683919d028ad4-2": {
@@ -90,7 +90,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/hero_2.jpg",
             "title": "Chiêu sinh các khóa",
-            "text": ""
+            "text": "<p>Nhằm tạo sân chơi cho các thiếu nhi.... <\/p><p><a href=\"\/pages\/chieu-sinh-cac-khoa\" title=\"Chiêu sinh các khóa\"><strong>Chi tiết<\/strong><\/a><\/p>"
           }
         },
         "c463caae-353c-4d34-98d1-3d8a711e909e": {
@@ -98,7 +98,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/banghieu_2-2.jpg",
             "title": "Tổ chức sự kiện cầu lông",
-            "text": ""
+            "text": "<p>Tổ chức các sự kiện cầu lông cho các đơn vị, cá nhân,..<\/p><p><a href=\"\/pages\/to-chuc-su-kien-cau-long\" title=\"Tổ chức sự kiện cầu lông\"><strong>Chi tiết<\/strong><\/a><\/p>"
           }
         }
       },
@@ -135,7 +135,7 @@
     "1628240789585d0bad": {
       "type": "apps",
       "settings": {
-        "include_margins": true
+        "include_margins": false
       }
     }
   },
