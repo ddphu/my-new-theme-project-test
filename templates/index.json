@@ -1,5 +1,30 @@
 {
   "sections": {
+    "16381706585caab5ee": {
+      "type": "VideoSection",
+      "blocks": {
+        "1638170658b6b7157a-0": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/2722\/0834\/files\/4178501759040574973.mp4?v=1638170575",
+            "video_image": "shopify:\/\/shop_images\/toancanhsan.jpg",
+            "overlay_opacity": 0,
+            "title": "\bSÂN CẦU LÔNG Ô TÔ VĂN HIỀN",
+            "text": "<p>Trên diện tích rất rộng tại địa chỉ: 264\/87 nguyễn thị minh khai, khu 3, tổ 1, Phường Phú Hòa, TP. Thủ Dầu Một , Bình Dương.Sân được xây dựng đạt tiêu chuẩn cao cấp, quốc tế<\/p>",
+            "color_text": "#ffffff",
+            "button_label": "Chi tiết trên bản đồ Google",
+            "button_link": "https:\/\/goo.gl\/maps\/jjPKGPaVct66c6GS9",
+            "color_btn_bg": "#e22120",
+            "color_btn_text": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1638170658b6b7157a-0"
+      ],
+      "settings": {
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -140,6 +165,7 @@
     }
   },
   "order": [
+    "16381706585caab5ee",
     "image_banner",
     "image_text",
     "1636196178ba00f1f4",
