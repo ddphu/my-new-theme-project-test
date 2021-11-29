@@ -8,11 +8,11 @@
           "settings": {
             "video_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/2722\/0834\/files\/4178501759040574973.mp4?v=1638170575",
             "video_image": "shopify:\/\/shop_images\/toancanhsan.jpg",
-            "overlay_opacity": 0,
-            "title": "\bSÂN CẦU LÔNG Ô TÔ VĂN HIỀN",
-            "text": "<p>Trên diện tích rất rộng tại địa chỉ: 264\/87 nguyễn thị minh khai, khu 3, tổ 1, Phường Phú Hòa, TP. Thủ Dầu Một , Bình Dương.Sân được xây dựng đạt tiêu chuẩn cao cấp, quốc tế<\/p>",
+            "overlay_opacity": 23,
+            "title": "",
+            "text": "",
             "color_text": "#ffffff",
-            "button_label": "Chi tiết trên bản đồ Google",
+            "button_label": "Chi tiết tìm đến sân cầu lông trên bản đồ Google",
             "button_link": "https:\/\/goo.gl\/maps\/jjPKGPaVct66c6GS9",
             "color_btn_bg": "#e22120",
             "color_btn_text": "#ffffff"
@@ -27,6 +27,7 @@
     },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -58,31 +59,82 @@
         "adapt_height_first_image": false
       }
     },
-    "image_text": {
-      "type": "image-with-text",
+    "16381739251f9a3997": {
+      "type": "image-banner",
       "blocks": {
-        "heading": {
+        "1638173925d901fe6a-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "Giới thiệu về cầu lông ô tô Văn Hiền"
+            "heading": "Image banner"
           }
         },
-        "text": {
+        "1638173925d901fe6a-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>Nằm tọa lạc trên diện tích rất rộng  tại địa chỉ: 264\/87 nguyễn thị minh khai, khu 3, tổ 1, Phường Phú Hòa, TP. Thủ Dầu Một , Bình Dương.Sân được xây dựng đạt tiêu chuẩn cao cấp, quốc tế.<\/p><p>Sân cầu lông Văn Hiền hiện tại đã hoàn thành được 3 sân, còn 6 sân đang trong dự án thi công. Trong tháng 11 này sẽ hoàn thành sân cho tất cả các AE đam mê cầu lông. Cảm ơn tất cả mọi người đã tham gia trong thời gian qua.* ĐẶC BIỆT: Bên mình có nhận đăng kí theo tháng sẽ được giảm 20% ạQuý khách có thắc mắc, muốn đặt sân vui lòng liên hệ SĐT: 0913.761969, 0988.337172, 0813.761969, 0889.077679 * XIN CHÂN THÀNH CẢM ƠN<\/p>"
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1638173925d901fe6a-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "1638173925d901fe6a-0",
+        "1638173925d901fe6a-1",
+        "1638173925d901fe6a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/247738338_117618864031500_8392309920954241216_n.jpg",
-        "height": "small",
+        "image": "shopify:\/\/shop_images\/toancanhsan.jpg",
+        "desktop_text_box_position": "center",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    },
+    "1638174362aa7e9cb8": {
+      "type": "rich-text",
+      "blocks": {
+        "163817436223b0dd40-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sân Cầu Lông Ô tô Văn Hiền",
+            "heading_size": "medium"
+          }
+        },
+        "163817436223b0dd40-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nằm tọa lạc trên diện tích rất rộng  tại địa chỉ: 264\/87 nguyễn thị minh khai, khu 3, tổ 1, Phường Phú Hòa, TP. Thủ Dầu Một , Bình Dương.Sân được xây dựng đạt tiêu chuẩn cao cấp, quốc tế.<\/p><p>Sân cầu lông Văn Hiền hiện tại đã hoàn thành được 3 sân, còn 6 sân đang trong dự án thi công. Trong tháng 11 này sẽ hoàn thành sân cho tất cả các AE đam mê cầu lông. Cảm ơn tất cả mọi người đã tham gia trong thời gian qua.* ĐẶC BIỆT: Bên mình có nhận đăng kí theo tháng sẽ được giảm 20% ạQuý khách có thắc mắc, muốn đặt sân vui lòng liên hệ SĐT: 0913.761969, 0988.337172, 0813.761969, 0889.077679 * XIN CHÂN THÀNH CẢM ƠN<\/p>"
+          }
+        },
+        "163817436223b0dd40-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "163817436223b0dd40-0",
+        "163817436223b0dd40-1",
+        "163817436223b0dd40-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
       }
     },
     "1636196178ba00f1f4": {
@@ -167,7 +219,8 @@
   "order": [
     "16381706585caab5ee",
     "image_banner",
-    "image_text",
+    "16381739251f9a3997",
+    "1638174362aa7e9cb8",
     "1636196178ba00f1f4",
     "16279683919d028ad4",
     "1627968934a4d665b5",
