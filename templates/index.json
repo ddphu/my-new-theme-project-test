@@ -8,7 +8,7 @@
           "settings": {
             "video_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/2722\/0834\/files\/4178501759040574973.mp4?v=1638170575",
             "video_image": "shopify:\/\/shop_images\/toancanhsan.jpg",
-            "overlay_opacity": 23,
+            "overlay_opacity": 0,
             "title": "",
             "text": "",
             "color_text": "#ffffff",
@@ -115,11 +115,12 @@
         "163817436223b0dd40-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Nằm tọa lạc trên diện tích rất rộng  tại địa chỉ: 264\/87 nguyễn thị minh khai, khu 3, tổ 1, Phường Phú Hòa, TP. Thủ Dầu Một , Bình Dương.Sân được xây dựng đạt tiêu chuẩn cao cấp, quốc tế.<\/p><p>Sân cầu lông Văn Hiền hiện tại đã hoàn thành được 3 sân, còn 6 sân đang trong dự án thi công. Trong tháng 11 này sẽ hoàn thành sân cho tất cả các AE đam mê cầu lông. Cảm ơn tất cả mọi người đã tham gia trong thời gian qua.* ĐẶC BIỆT: Bên mình có nhận đăng kí theo tháng sẽ được giảm 20% ạQuý khách có thắc mắc, muốn đặt sân vui lòng liên hệ SĐT: 0913.761969, 0988.337172, 0813.761969, 0889.077679 * XIN CHÂN THÀNH CẢM ƠN<\/p>"
+            "text": "<p>Nằm tọa lạc trên diện tích rất rộng khoảng 2ha, tại địa chỉ: 264\/87 Nguyễn Thị Minh khai, khu 3, tổ 1, Phường Phú Hòa, TP. Thủ Dầu Một, Bình Dương. Sân được xây dựng đạt tiêu chuẩn cao cấp, quốc tế.<\/p><p>ĐẶC BIỆT: Bên mình có nhận đăng kí theo tháng sẽ được giảm 20%. Quý khách có thắc mắc, muốn đặt sân vui lòng liên hệ SĐT: 0913.761969, 0988.337172, 0813.761969, 0889.07767<\/p><p>XIN CHÂN THÀNH CẢM ƠN<\/p>"
           }
         },
         "163817436223b0dd40-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
@@ -133,7 +134,7 @@
         "163817436223b0dd40-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "full_width": true
       }
     },
@@ -149,15 +150,15 @@
         "16279683919d028ad4-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/244986736_106133825180004_6092686517127530613_n.jpg",
+            "image": "shopify:\/\/shop_images\/chieusinhcackhoa.jpg",
             "title": "Cho thuê sân cầu lông",
-            "text": "<p>Được xây dựng hiện đại, tiêu chuẩn thi đấu quốc tế.<\/p><p><a href=\"\/pages\/cho-thue-san-cau-long\" title=\"Cho thuê sân cầu lông\"><strong>Chi tiết<\/strong><\/a><br\/><br\/><\/p>"
+            "text": "<p>Sân hiện đại, tiêu chuẩn thi đấu quốc tế.<\/p><p><a href=\"\/pages\/cho-thue-san-cau-long\" title=\"Cho thuê sân cầu lông\"><strong>Chi tiết<\/strong><\/a><br\/><br\/><\/p>"
           }
         },
         "16279683919d028ad4-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/fbf28bc51350d77dc891f5a93b432808.jpg",
+            "image": "shopify:\/\/shop_images\/huanluyenkynang_1703ee9d-d0a9-4e1d-b8bc-298b37238375.jpg",
             "title": "Huấn luyện kỹ năng",
             "text": "<p>Chương trình cơ bản, nâng cao,...<\/p><p><a href=\"\/pages\/huan-luyen-ky-nang\" title=\"Huấn luyện kỹ năng\"><strong>Chi tiết<\/strong><\/a><\/p>"
           }
@@ -165,17 +166,33 @@
         "16279683919d028ad4-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hero_2.jpg",
-            "title": "Chiêu sinh các khóa",
+            "image": "shopify:\/\/shop_images\/nhanhocvienmoingay.jpg",
+            "title": "Nhận học viên mỗi ngày",
             "text": "<p>Nhằm tạo sân chơi cho các thiếu nhi.... <\/p><p><a href=\"\/pages\/chieu-sinh-cac-khoa\" title=\"Chiêu sinh các khóa\"><strong>Chi tiết<\/strong><\/a><\/p>"
           }
         },
         "c463caae-353c-4d34-98d1-3d8a711e909e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banghieu_2-2.jpg",
+            "image": "shopify:\/\/shop_images\/nhan_vien.jpg",
             "title": "Tổ chức sự kiện cầu lông",
-            "text": "<p>Tổ chức các sự kiện cầu lông cho các đơn vị, cá nhân,..<\/p><p><a href=\"\/pages\/to-chuc-su-kien-cau-long\" title=\"Tổ chức sự kiện cầu lông\"><strong>Chi tiết<\/strong><\/a><\/p>"
+            "text": "<p>Cho các đơn vị, doanh nghiệp, cá nhân,..<\/p><p><a href=\"\/pages\/to-chuc-su-kien-cau-long\" title=\"Tổ chức sự kiện cầu lông\"><strong>Chi tiết<\/strong><\/a><\/p>"
+          }
+        },
+        "1b6e6434-65b9-46d5-bab1-8ebf9736f416": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/chothuegiayvavot.jpg",
+            "title": "Cho thuê giày & vợt tập luyện",
+            "text": "<p>Tại sân cầu lông ô tô Văn Hiền<\/p><p><a href=\"\/pages\/cho-thue-giay-vot-tap-luyen\" title=\"Cho thuê giày & vợt tập luyện\"><strong>Chi tiết<\/strong><\/a><\/p>"
+          }
+        },
+        "7dab429b-180f-4332-ba25-f1253fdebcc3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nuocuongtudong.jpg",
+            "title": "Dịch vụ giải khát tự động",
+            "text": "<p>Tại sân cầu lông ô tô Văn Hiền<\/p><p><a href=\"\/pages\/dich-vu-giai-khat-tu-dong\" title=\"Dịch vụ giải khát tự động\"><strong>Chi tiết<\/strong><\/a><\/p>"
           }
         }
       },
@@ -183,14 +200,16 @@
         "16279683919d028ad4-0",
         "16279683919d028ad4-1",
         "16279683919d028ad4-2",
-        "c463caae-353c-4d34-98d1-3d8a711e909e"
+        "c463caae-353c-4d34-98d1-3d8a711e909e",
+        "1b6e6434-65b9-46d5-bab1-8ebf9736f416",
+        "7dab429b-180f-4332-ba25-f1253fdebcc3"
       ],
       "settings": {
-        "title": "Dịch vụ",
+        "title": "Dịch vụ tại sân cầu lông ô tô Văn Hiền",
         "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "secondary",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
