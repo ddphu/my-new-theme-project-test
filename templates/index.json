@@ -194,6 +194,14 @@
             "title": "Dịch vụ giải khát tự động",
             "text": "<p>Tại sân cầu lông ô tô Văn Hiền<\/p><p><a href=\"\/pages\/dich-vu-giai-khat-tu-dong\" title=\"Dịch vụ giải khát tự động\"><strong>Chi tiết<\/strong><\/a><\/p>"
           }
+        },
+        "7d583f7c-faaa-4d5b-a7ce-7c4ae6e7e5e9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/danluoivot.jpg",
+            "title": "Đan lưới vợt cầu lông",
+            "text": "<p>Tại sân cầu lông ô tô Văn Hiền<\/p><p><a href=\"\/pages\/may-dan-soi-cho-vot-cau-long\" title=\"Máy đan sợi cho vợt cầu lông\"><strong>Chi tiết<\/strong><\/a><\/p>"
+          }
         }
       },
       "block_order": [
@@ -202,14 +210,15 @@
         "16279683919d028ad4-2",
         "c463caae-353c-4d34-98d1-3d8a711e909e",
         "1b6e6434-65b9-46d5-bab1-8ebf9736f416",
-        "7dab429b-180f-4332-ba25-f1253fdebcc3"
+        "7dab429b-180f-4332-ba25-f1253fdebcc3",
+        "7d583f7c-faaa-4d5b-a7ce-7c4ae6e7e5e9"
       ],
       "settings": {
         "title": "Dịch vụ tại sân cầu lông ô tô Văn Hiền",
         "image_width": "full",
-        "image_ratio": "circle",
+        "image_ratio": "adapt",
         "column_alignment": "center",
-        "background_style": "secondary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
