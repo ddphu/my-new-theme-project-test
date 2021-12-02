@@ -36,16 +36,40 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "7bde37de-9e6c-412a-875c-9bf6ee4186af": {
+            "type": "text",
+            "settings": {
+              "heading": "Sân cầu lông ô tô Văn Hiền",
+              "subtext": "<p>Địa chỉ: 264\/87 Nguyễn Thị Minh khai, khu 3, tổ 1, Phú Hòa, Tp. Thủ Dầu Một, Bình Dương.<br\/>Email: vanhiencaulong@gmail.com<br\/>Web: sancaulongotovanhien.com.vn<br\/>Đt: 0913761969 - 0813761969 - 0988317172<\/p>"
+            }
+          },
           "footer-0": {
             "type": "link_list",
             "settings": {
               "heading": "Dịch  vụ",
               "menu": "footer"
             }
+          },
+          "98ba75f2-0f04-42f7-b0fe-86e2358042ea": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Sản phẩm",
+              "menu": "san-pham"
+            }
+          },
+          "e15ed9b5-0a34-4feb-9fa3-cb8094fc2a88": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Thương hiệu",
+              "menu": "thuong-hieu"
+            }
           }
         },
         "block_order": [
-          "footer-0"
+          "7bde37de-9e6c-412a-875c-9bf6ee4186af",
+          "footer-0",
+          "98ba75f2-0f04-42f7-b0fe-86e2358042ea",
+          "e15ed9b5-0a34-4feb-9fa3-cb8094fc2a88"
         ],
         "settings": {
           "color_scheme": "background-1",
