@@ -12,6 +12,7 @@
         },
         "title": {
           "type": "title",
+          "disabled": true,
           "settings": {
           }
         },
@@ -24,22 +25,27 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
+            "picker_type": "button"
           }
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
+            "show_dynamic_checkout": true
           }
         },
         "description": {
@@ -50,6 +56,15 @@
         "share": {
           "type": "share",
           "settings": {
+          }
+        },
+        "779970fa-4973-4da3-ba83-586071ebdb21": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
           }
         }
       },
@@ -62,14 +77,22 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "779970fa-4973-4da3-ba83-586071ebdb21"
       ],
       "settings": {
+        "enable_sticky_info": true,
+        "enable_video_looping": false
       }
     },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
+        "heading": "Sản phẩm liên quan",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_vendor": true
       }
     }
   },
