@@ -9,11 +9,11 @@
             "video_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/2722\/0834\/files\/4178501759040574973.mp4?v=1638170575",
             "video_image": "shopify:\/\/shop_images\/toancanhsan.jpg",
             "overlay_opacity": 0,
-            "title": "",
-            "text": "",
+            "title": "Chi tiết",
+            "text": "<p>Chi tiết tìm đến sân cầu lông trên bản đồ Google. Click vào đây<\/p>",
             "color_text": "#ffffff",
-            "button_label": "Chi tiết tìm đến sân cầu lông trên bản đồ Google",
-            "button_link": "https:\/\/goo.gl\/maps\/jjPKGPaVct66c6GS9",
+            "button_label": "Chi tiết tìm đến sân cầu lông trên bản đồ Google. Click vào đây",
+            "button_link": "shopify:\/\/pages\/vi-tri-san-cau-long-van-hien",
             "color_btn_bg": "#e22120",
             "color_btn_text": "#ffffff"
           }
@@ -248,6 +248,7 @@
     },
     "1636196178ba00f1f4": {
       "type": "page",
+      "disabled": true,
       "settings": {
         "page": "vi-tri-san-cau-long-van-hien"
       }
