@@ -257,7 +257,7 @@
       "type": "featured-blog",
       "settings": {
         "heading": "Tin Tức về Cầu Lông",
-        "blog": "news",
+        "blog": "tin-tuc",
         "post_limit": 3,
         "show_image": true,
         "show_date": true,
