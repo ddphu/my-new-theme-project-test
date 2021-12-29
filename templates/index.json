@@ -203,6 +203,41 @@
         "adapt_height_first_image": false
       }
     },
+    "1640778323ae256e30": {
+      "type": "image-with-text",
+      "blocks": {
+        "1640778323a0407a60-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sân cầu lông ô tô Văn Hiền"
+          }
+        },
+        "1640778323a0407a60-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sân cầu lông được xây dựng hiện đại, đạt tiêu chuẩn quốc tế, có đầy đủ dịch vụ mà quý khách cần về cầu lông. Hãy đến với chúng tôi để trải nghiệm.<\/p>"
+          }
+        },
+        "1640778323a0407a60-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vị trí sân cầu lông",
+            "button_link": "shopify:\/\/pages\/vi-tri-san-cau-long-van-hien"
+          }
+        }
+      },
+      "block_order": [
+        "1640778323a0407a60-0",
+        "1640778323a0407a60-1",
+        "1640778323a0407a60-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ben_ngoai_san_11405bba-e82f-4d7c-89a3-7d74a923d534.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "16381739251f9a3997": {
       "type": "image-banner",
       "blocks": {
@@ -280,6 +315,7 @@
     "1638427348c4eeebe9",
     "1638427397cfa3ebaf",
     "image_banner",
+    "1640778323ae256e30",
     "16381739251f9a3997",
     "1636196178ba00f1f4",
     "1627968934a4d665b5",
