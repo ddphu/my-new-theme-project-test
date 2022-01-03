@@ -8,17 +8,24 @@
     "1636196762de07e43b": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/247125957_117618974031489_2254593117945287969_n.jpg",
-        "image_2": "shopify:\/\/shop_images\/244986736_106133825180004_6092686517127530613_n.jpg",
-        "desktop_text_box_position": "center",
+        "image": "shopify:\/\/shop_images\/ben_ngoai_san_11405bba-e82f-4d7c-89a3-7d74a923d534.jpg",
+        "image_2": "shopify:\/\/shop_images\/huanluyenkynang2.jpg",
+        "desktop_text_box_position": "flex-end",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
+      }
+    },
+    "1641183413f41864a9": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Đặt lịch sân cầu lông"
       }
     }
   },
   "order": [
     "main",
-    "1636196762de07e43b"
+    "1636196762de07e43b",
+    "1641183413f41864a9"
   ]
 }

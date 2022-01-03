@@ -9,7 +9,7 @@
       "login_form_submit": "Nhập",
       "modal": "Hộp tương tác mật khẩu",
       "admin_link_html": "Bạn có phải chủ cửa hàng không? <a href=\"\/admin\" class=\"link underlined-link\">Đăng nhập tại đây<\/a>",
-      "powered_by_shopify_html": "Cửa hàng này sẽ do {{ shopify }} cung cấp"
+      "powered_by_shopify_html": " "
     },
     "social": {
       "alt_text": {
@@ -375,6 +375,11 @@
       "expired": "Đã hết hạn",
       "copy_code_success": "Đã sao chép mã thành công",
       "print_gift_card": "In"
+    }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": " "
     }
   }
 }
