@@ -61,33 +61,6 @@
         "full_width": true
       }
     },
-    "16432672202d7308e4": {
-      "type": "image-with-text",
-      "blocks": {
-        "16432672203b2b805c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Lịch nghỉ Tết"
-          }
-        },
-        "16432672203b2b805c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Từ ngày chủ nhật 30\/01\/2022 (ngày 28\/12 âm lich) đến hết ngày thứ ba 01\/02\/2022 (mùng 1 Tết).<\/p><p>Thứ tư 02\/02\/2022 (mùng 2 Tết) làm việc bình thường.<\/p><p>Chúc quý khách và gia đình năm mới An khang thịnh vượng, Vạn sự như ý.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16432672203b2b805c-0",
-        "16432672203b2b805c-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/lich-nghi-tet-4.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "16279683919d028ad4": {
       "type": "multicolumn",
       "blocks": {
@@ -338,7 +311,6 @@
   "order": [
     "16381706585caab5ee",
     "1638174362aa7e9cb8",
-    "16432672202d7308e4",
     "16279683919d028ad4",
     "1638427348c4eeebe9",
     "1638427397cfa3ebaf",
