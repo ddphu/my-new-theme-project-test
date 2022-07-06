@@ -61,6 +61,49 @@
         "full_width": true
       }
     },
+    "1657079609e99b5ac9": {
+      "type": "collage",
+      "blocks": {
+        "1657079609c3e8d992-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/hoatdong2_200e762e-3c90-443d-ae88-3e1c282676ff.jpg",
+            "video_url": "https:\/\/youtu.be\/a2HkyHgtUvA",
+            "description": "Các vận động viên thi đấu cầu lông tại sân cầu lông ô tô Văn Hiền",
+            "image_padding": false
+          }
+        },
+        "1657079609c3e8d992-1": {
+          "type": "product",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "secondary_background": false,
+            "second_image": false,
+            "image_padding": false
+          }
+        },
+        "1657079609c3e8d992-2": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1657079609c3e8d992-0",
+        "1657079609c3e8d992-1",
+        "1657079609c3e8d992-2"
+      ],
+      "settings": {
+        "heading": "Videos",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
     "16279683919d028ad4": {
       "type": "multicolumn",
       "blocks": {
@@ -311,6 +354,7 @@
   "order": [
     "16381706585caab5ee",
     "1638174362aa7e9cb8",
+    "1657079609e99b5ac9",
     "16279683919d028ad4",
     "1638427348c4eeebe9",
     "1638427397cfa3ebaf",
